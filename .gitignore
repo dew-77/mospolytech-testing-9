@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# k6 outputs
+*.tmp
+*.out
+
+# OS / editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
